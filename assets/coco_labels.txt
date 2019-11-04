@@ -1,0 +1,81 @@
+1	BG
+2	person
+3	bicycle
+4	car
+5	motorcycle
+6	airplane
+7	bus
+8	train
+9	truck
+10	boat
+11	traffic light
+12	fire hydrant
+13	stop sign
+14	parking meter
+15	bench
+16	bird
+17	cat
+18	dog
+19	horse
+20	sheep
+21	cow
+22	elephant
+23	bear
+24	zebra
+25	giraffe
+26	backpack
+27	umbrella
+28	handbag
+29	tie
+30	suitcase
+31	frisbee
+32	skis
+33	snowboard
+34	sports ball
+35	kite
+36	baseball bat
+37	baseball glove
+38	skateboard
+39	surfboard
+40	tennis racket
+41	bottle
+42	wine glass
+43	cup
+44	fork
+45	knife
+46	spoon
+47	bowl
+48	banana
+49	apple
+50	sandwich
+51	orange
+52	broccoli
+53	carrot
+54	hot dog
+55	pizza
+56	donut
+57	cake
+58	chair
+59	couch
+60	potted plant
+61	bed
+62	dining table
+63	toilet
+64	tv
+65	laptop
+66	mouse
+67	remote
+68	keyboard
+69	cell phone
+70	microwave
+71	oven
+72	toaster
+73	sink
+74	refrigerator
+75	book
+76	clock
+77	vase
+78	scissors
+79	teddy bear
+80	hair drier
+81	toothbrush
