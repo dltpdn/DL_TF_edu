@@ -11,3 +11,13 @@ for fn in uploaded.keys():
   print('User uploaded file "{name}" with length {length} bytes'.format(
       name=fn, length=len(uploaded[fn])))
 ```
+
+* mounting Google Drive as local drive
+
+```python
+from google.colab import auth
+auth.authenticate_user()
+
+from google.colab import drive
+drive.mount('/content/gdrive')
+```
